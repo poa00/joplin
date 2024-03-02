@@ -16,7 +16,7 @@
   ],
   "devDependencies": {
     "@codemirror/view": "^6.24.0",
-    "@joplin/lib": "~2.9",
+    "@joplin/lib": "~2.14",
     "@types/node": "^18.7.13",
     "chalk": "^4.1.0",
     "copy-webpack-plugin": "^11.0.0",
